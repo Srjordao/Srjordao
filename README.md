@@ -5,6 +5,10 @@
 
 Here are some ideas to get you started:
 
+
+My instagram about tester https://www.instagram.com/qainiciante/
+I am learning about this subject everyday and sharing with my follows. :)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
