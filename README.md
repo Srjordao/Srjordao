@@ -6,9 +6,10 @@ You, can help me ? Yes ? Send me a message
 
 Introducing two powerful ebooks on software quality! Enhance your understanding of software development with "QAINICIANTE" and "Manual do QAINICIANTE" Dive into proven strategies, best practices, and real-world examples that will transform your approach to software quality. Whether you're a seasoned professional or just starting your journey, these ebooks will equip you with the knowledge and tools to deliver exceptional software. Don't miss out! Get your copies today and unlock the secrets to building robust and reliable software. Available on Amazon and Hotmart now!
 
-Amazon:
+Amazon:<br
   1 - https://www.amazon.com/dp/B0BQXW7FYR
-  2 - https://www.amazon.com.br/dp/B0C2SD1FLB
+  2 - https://www.amazon.com.br/dp/B0C2SD1FLB<br
+  
 Hotmart:
   1 - https://pay.hotmart.com/P73284032C?checkoutMode=10&bid=1687986404321
   2 - https://pay.hotmart.com/L81998009X?checkoutMode=10&bid=1687986394665
