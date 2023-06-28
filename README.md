@@ -9,9 +9,10 @@ Introducing two powerful ebooks on software quality! Enhance your understanding 
 Amazon:
  <br> 1 - https://www.amazon.com/dp/B0BQXW7FYR<br />
  <br> 2 - https://www.amazon.com.br/dp/B0C2SD1FLB<br />
+ 
 Hotmart:
  <br> 1 - https://pay.hotmart.com/P73284032C?checkoutMode=10&bid=1687986404321<br />
-  <br>2 - https://pay.hotmart.com/L81998009X?checkoutMode=10&bid=1687986394665<br />
+ <br>2 - https://pay.hotmart.com/L81998009X?checkoutMode=10&bid=1687986394665<br />
 
 
 <!--
