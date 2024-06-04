@@ -1,5 +1,4 @@
 ### Olá!👋
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## Sobre mim
 Sou Rogério Jordão, um Engenheiro de Testes de Software com vasta experiência em automação de testes e desenvolvimento de software. No meu GitHub, compartilho uma variedade de projetos focados em automação, incluindo testes de aplicações web e mobile.
 
