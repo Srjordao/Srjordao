@@ -2,7 +2,7 @@
 
 ## 🧪 Sobre mim
 
-Sou Engenheiro de Testes de Software com sólida experiência em **automação de testes**, **qualidade de software** e **desenvolvimento backend**. Ao longo da minha carreira, atuei em projetos que envolvem:
+Sou Engenheiro de Testes de Software com sólida experiência em **automação de testes**, **qualidade de software** e **processos**. Ao longo da minha carreira, atuei em projetos que envolvem:
 
 * Testes de aplicações **web**, **mobile** e **APIs**
 * Implementações com **Robot Framework**, **Selenium**, **CI/CD**
