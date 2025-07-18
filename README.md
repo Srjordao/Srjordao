@@ -10,19 +10,24 @@ Sou Rogério Jordão, Engenheiro de Testes de Software com ampla experiência em
 - [ApiRandomUser](https://github.com/Srjordao/ApiRandomUser): Projeto de API para geração de usuários aleatórios.
 
 Meu Instagram sobre testes: [qainiciante](https://www.instagram.com/qainiciante). Estou aprendendo sobre este assunto diariamente e compartilhando com meus seguidores. Quer me ajudar? Sim? Envie-me uma mensagem!
+Meu TikTok falando sobre tech e dicas de testes: [qainiciante]((https://www.tiktok.com/@qainiciante)).
 
 Apresento dois ebooks essenciais sobre qualidade de software! Melhore seu conhecimento em desenvolvimento de software com "QAINICIANTE" e "Manual do QAINICIANTE". Descubra estratégias comprovadas, melhores práticas e exemplos do mundo real que transformarão sua abordagem sobre qualidade de software. Seja você um profissional experiente ou iniciante, esses ebooks irão equipá-lo com as ferramentas necessárias para entregar software de alta qualidade. Não perca! Adquira suas cópias hoje e desbloqueie os segredos para criar software robusto e confiável. Disponível na Amazon e Hotmart agora!
 
 ### Links para os ebooks
 
+**Ebook Gratuito**
+1. [QAINICIANTE]([https://pay.hotmart.com/P73284032C?checkoutMode=10&bid=1687986404321](https://rojordao.wixsite.com/ebookqainiciante))
+   
 **Amazon:**
 1. [QAINICIANTE](https://www.amazon.com/dp/B0BQXW7FYR)
 2. [Manual do QAINICIANTE](https://www.amazon.com.br/dp/B0C2SD1FLB)
 
 **Hotmart:**
-1. [QAINICIANTE](https://pay.hotmart.com/P73284032C?checkoutMode=10&bid=1687986404321)
+1. [Domine o Básico do Robot Framework]([https://pay.hotmart.com/P73284032C?checkoutMode=10&bid=1687986404321](https://hotmart.com/pt-br/marketplace/produtos/pack-completo-domine-o-basico-do-robot-framework/P97480540N))
 2. [Manual do QAINICIANTE](https://pay.hotmart.com/L81998009X?checkoutMode=10&bid=1687986394665)
-
+3. [Desvendando a Excelência nos Testes de Software]([https://pay.hotmart.com/P73284032C?checkoutMode=10&bid=1687986404321](https://pay.hotmart.com/P84391411B?bid=1752837548862))
+   
 Explore meus repositórios e sinta-se à vontade para contribuir!
 
 
