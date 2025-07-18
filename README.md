@@ -1,7 +1,3 @@
-Claro, Rogério! Aqui está uma versão revisada, mais objetiva, organizada e com linguagem mais envolvente para o seu `README.md` do GitHub:
-
----
-
 # 👋 Olá, eu sou o Rogério Jordão
 
 ## 🧪 Sobre mim
