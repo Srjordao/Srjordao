@@ -1,65 +1,77 @@
-# 👋 Olá, eu sou o Rogério Jordão
+# 👋 Olá! Eu sou o Rogério Jordão
 
 ## 🧪 Sobre mim
 
-Sou Engenheiro de Testes de Software com ampla experiência em automação, qualidade e desenvolvimento. Trabalho com projetos voltados para aplicações web, mobile e APIs, sempre buscando inovação, eficiência e aprendizado contínuo.
+Sou Engenheiro de Testes de Software com sólida experiência em **automação de testes**, **qualidade de software** e **desenvolvimento backend**. Ao longo da minha carreira, atuei em projetos que envolvem:
 
-Aqui no meu GitHub, você encontrará projetos reais que exploram ferramentas como **Robot Framework**, **Selenium**, **CI/CD**, além de integrações com **AWS** e **plataformas como Alexa**.
+* Testes de aplicações **web**, **mobile** e **APIs**
+* Implementações com **Robot Framework**, **Selenium**, **CI/CD**
+* Integrações com **AWS**, **GitHub Actions** e **DynamoDB**
+* Criação de **skills para Alexa** e **ferramentas de produtividade**
+
+Aqui no GitHub compartilho **projetos práticos**, **demonstrações técnicas** e materiais para ajudar a comunidade de QA e desenvolvimento.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-* 🔊 [**Alexa Skill – Quiz Teste de Software**](https://www.amazon.com.br/Rogerio-Jord%C3%A3o-Frases-de-Analista/dp/B0BF28LY7K)
-  Uma skill para Alexa que desafia usuários a testarem seus conhecimentos sobre QA e automação.
+* 🔊 [**Quiz de Teste de Software para Alexa**](https://www.amazon.com.br/Rogerio-Jord%C3%A3o-Frases-de-Analista/dp/B0BF28LY7K)
+  Skill interativa para testar conhecimentos de QA diretamente pela Alexa.
 
-* 💬 [**Alexa Skill – Frases de Analista**](https://www.amazon.com.br/Rogerio-Jord%C3%A3o-Quiz-Teste-Software/dp/B0C9N2M57N)
-  Simula frases típicas do dia a dia de analistas de QA, de forma divertida e realista.
+* 💬 [**Frases de Analista – Alexa Skill**](https://www.amazon.com.br/Rogerio-Jord%C3%A3o-Quiz-Teste-Software/dp/B0C9N2M57N)
+  Simula frases reais de profissionais de QA de forma leve e divertida.
 
 * 🤖 [**RobotExemploPetStore**](https://github.com/Srjordao/RobotExemploPetStore)
-  Projeto de automação de testes de API usando Robot Framework com a famosa PetStore.
+  Automação de testes de API com Robot Framework, ideal para iniciantes.
 
-* 📚 [**SiteAmazonPesquisaEbookQa**](https://github.com/Srjordao/SiteAmazonPesquisaEbookQa)
-  Automação com Selenium para encontrar ebooks sobre QA na Amazon.
+* 🕵️ [**Pesquisa de eBooks na Amazon**](https://github.com/Srjordao/SiteAmazonPesquisaEbookQa)
+  Automação com Selenium para busca inteligente de eBooks sobre QA.
 
 * 👤 [**API Random User**](https://github.com/Srjordao/ApiRandomUser)
-  API simples para geração de usuários aleatórios para testes e desenvolvimento.
+  API para geração de usuários aleatórios, útil para testes e simulações.
 
 ---
 
-## 📲 Redes Sociais e Conteúdo
+## 📚 Meus eBooks sobre Qualidade de Software
 
-* 📸 Instagram sobre testes: [@qainiciante](https://www.instagram.com/qainiciante)
-  Conteúdo educativo e prático sobre qualidade de software e carreira em QA.
+### 🆓 Gratuitos
 
-* 🎥 TikTok com dicas rápidas: [@qainiciante](https://www.tiktok.com/@qainiciante)
-  Dicas técnicas e insights sobre o dia a dia em QA de forma leve e acessível.
+* [📘 Baixe o eBook "Duvidas que podem surgir"](https://tr.ee/XJXae6-lZu)
+* [📘 Baixe o eBook "QAINICIANTE")](https://rojordao.wixsite.com/ebookqainiciante)
+
+### 📖 Amazon
+
+* [QAINICIANTE](https://www.amazon.com/dp/B0BQXW7FYR)
+* [Manual do QAINICIANTE](https://www.amazon.com.br/dp/B0C2SD1FLB)
+
+### 🔥 Hotmart
+
+* [Domine o Básico do Robot Framework](https://hotmart.com/pt-br/marketplace/produtos/pack-completo-domine-o-basico-do-robot-framework/P97480540N)
+* [Manual do QAINICIANTE](https://pay.hotmart.com/L81998009X?checkoutMode=10&bid=1687986394665)
+* [Desvendando a Excelência nos Testes de Software](https://pay.hotmart.com/P84391411B?bid=1752837548862)
+* [Habilidades Sociais para Profissionais de QA](https://hotmart.com/pt-br/marketplace/produtos/habilidades-sociais-para-profissionais/D85084179W)
 
 ---
 
-## 📘 Meus eBooks sobre QA
+## 🌐 Onde me encontrar
 
-Apresento dois eBooks essenciais para quem quer dominar qualidade de software – seja você iniciante ou já atuante na área:
-
-### Gratuito:
-
-* ✅ [QAINICIANTE (Download via site)](https://rojordao.wixsite.com/ebookqainiciante)
-
-### Amazon:
-
-* 📗 [QAINICIANTE](https://www.amazon.com/dp/B0BQXW7FYR)
-* 📘 [Manual do QAINICIANTE](https://www.amazon.com.br/dp/B0C2SD1FLB)
-
-### Hotmart:
-
-* 🔧 [Domine o Básico do Robot Framework](https://hotmart.com/pt-br/marketplace/produtos/pack-completo-domine-o-basico-do-robot-framework/P97480540N)
-* 🧠 [Manual do QAINICIANTE](https://pay.hotmart.com/L81998009X?checkoutMode=10&bid=1687986394665)
-* 🧪 [Desvendando a Excelência nos Testes de Software](https://pay.hotmart.com/P84391411B?bid=1752837548862)
+* 🌍 **Site oficial:** [www.qainiciante.com.br](https://www.qainiciante.com.br)
+* 📸 **Instagram:** [@qainiciante](https://www.instagram.com/qainiciante)
+* 🎥 **YouTube:** [Canal QA Iniciante](https://www.youtube.com/channel/UC6nkuITQDJq73vJXZLUFpFg)
+* 💬 **Telegram (Grupo):** [QA Iniciante](https://t.me/+TMTVhFw_jHA0NmUx)
+* 🎵 **TikTok:** [@qainiciante](https://www.tiktok.com/@qainiciante)
 
 ---
 
 ## 🤝 Vamos conversar?
 
-Estou sempre aberto para colaborações, feedbacks e trocas de conhecimento. Se você curte automação, qualidade de software e desenvolvimento prático, **explore meus repositórios** e sinta-se à vontade para contribuir ou mandar uma mensagem.
+Sinta-se à vontade para:
+
+* ⭐ Explorar e favoritar os repositórios
+* 💬 Abrir issues com dúvidas ou sugestões
+* 🧠 Contribuir com melhorias ou feedback
+* 📩 Me chamar nas redes para colaborações ou mentorias
 
 ---
+
+> 🚀 **Se você trabalha com testes ou está iniciando sua jornada em QA, esse espaço é para você.**
