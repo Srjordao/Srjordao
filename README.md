@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Olá, sou a {Seu Nome}!&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
 # 👋 Olá! Eu sou o Rogério Jordão
 
 ## 🧪 Sobre mim
@@ -75,3 +79,8 @@ Sinta-se à vontade para:
 ---
 
 > 🚀 **Se você trabalha com testes ou está iniciando sua jornada em QA, esse espaço é para você.**
+
+<!-- GitHub Stats -->
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Srjordao&show_icons=true&theme=radical" alt="Stats do Rogério Jordão" />
+</p>
