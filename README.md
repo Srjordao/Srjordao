@@ -21,6 +21,8 @@ Aqui no GitHub compartilho **projetos práticos**, **demonstrações técnicas**
 
 ## 🚀 Projetos em Destaque
 
+* 🔢 [**robotframework-cnpjalfanum**](https://github.com/Srjordao/robotframework-cnpjalfanum) Biblioteca para geração, validação e formatação de CNPJ alfanumérico no Robot Framework, compatível com o novo padrão da Receita Federal e ideal para automação de testes.
+
 * 🔊 [**Quiz de Teste de Software para Alexa**](https://www.amazon.com.br/Rogerio-Jord%C3%A3o-Frases-de-Analista/dp/B0BF28LY7K)
   Skill interativa para testar conhecimentos de QA diretamente pela Alexa.
 
