@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.youtube.com/@qainiciante" target="_blank">
+  <a href="https://www.youtube.com/@sr.jordao" target="_blank">
     <img src="https://capsule-render.vercel.app/api?text=▶️+YouTube:+qainiciante&animation=pop&color=gradient&background=1F1F1F&height=150&fontSize=50&fontWeight=700&type=wave&fontColor=ffffff"/>
   </a>
 </p>
