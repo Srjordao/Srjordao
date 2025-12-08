@@ -65,7 +65,7 @@ Aqui no GitHub compartilho **projetos práticos**, **demonstrações técnicas**
 
 * 🌍 **Site oficial:** [www.qainiciante.com.br](https://www.qainiciante.com.br)
 * 📸 **Instagram:** [@qainiciante](https://www.instagram.com/qainiciante)
-* 🎥 **YouTube:** [Canal QA Iniciante](https://www.youtube.com/channel/UC6nkuITQDJq73vJXZLUFpFg)
+* 🎥 **YouTube:** [Canal Jordão](https://www.youtube.com/@sr.jordao)
 * 💬 **Telegram (Grupo):** [QA Iniciante](https://t.me/+TMTVhFw_jHA0NmUx)
 * 🎵 **TikTok:** [@qainiciante](https://www.tiktok.com/@qainiciante)
 
