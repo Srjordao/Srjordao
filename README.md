@@ -42,11 +42,6 @@ Aqui no GitHub compartilho **projetos práticos**, **demonstrações técnicas**
 
 ## 📚 Meus eBooks sobre Qualidade de Software
 
-### 🆓 Gratuitos
-
-* [📘 Baixe o eBook "Duvidas que podem surgir"](https://tr.ee/XJXae6-lZu)
-* [📘 Baixe o eBook "QAINICIANTE")](https://rojordao.wixsite.com/ebookqainiciante)
-
 ### 📖 Amazon
 
 * [QAINICIANTE](https://www.amazon.com/dp/B0BQXW7FYR)
